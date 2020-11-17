@@ -15,7 +15,7 @@ Global state of the app
 * - Shopping list object 
 * - liked recipe
 */
-
+alert("fork");
 const state = {};
 
 
